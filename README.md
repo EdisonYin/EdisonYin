@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 🔭 I’m currently working on wechatapp.
+
+### Profile
+| Name | Language |
+|  ----  | ----  |
+| Edison | Java, JavaScript |
+
 
 <!--
 **EdisonYin/EdisonYin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
