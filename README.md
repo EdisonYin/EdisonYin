@@ -6,6 +6,8 @@
 | Edison | Java, JavaScript |
 
 
+[![](https://github-readme-stats.vercel.app/api?username=EdisonYin&show_icons=true&count_private=true&line_height=40)]()
+
 <!--
 **EdisonYin/EdisonYin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
